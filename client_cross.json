@@ -1,1 +1,1 @@
-{"client_id":"https://aditya230699.github.io/cimd-probe/client_cross.json","client_name":"BBHunter CIMD probe (cross-origin)","redirect_uris":["https://evil.example.com/cb"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none"}
+{"error":"probe withdrawn by author"}
